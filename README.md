@@ -73,7 +73,22 @@ $ expo start
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](./LICENSE.md) para mais detalhes.
 
 <br />
-  
+
+## 📓 Anotações pessoais
+
+<br />
+
+<h3>Comandos executados </h3>
+
+```bash
+# Criando o projeto, ao passar a flag --npm ou --yarn vai dizer qual gerenciador de pacotes vai utilizar
+# Não misture, se decidir usar um é recomendado seguir com ele pois pode gerar muita dor de cabeça.
+
+➜ expo init imhere --npm
+# Selecionada a opção Menaged Workflow, blank (TypeScript)
+
+➜ expo install expo-status-bar
+```
 ---
 <br />
 
